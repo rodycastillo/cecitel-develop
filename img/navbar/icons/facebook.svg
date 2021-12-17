@@ -1,0 +1,11 @@
+<svg width="65" height="65" viewBox="0 0 65 65" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 2" clip-path="url(#clip0)">
+<path id="facebook-f" d="M38.168 35.875L38.8789 31.2031H34.3594V28.1562C34.3594 26.8359 34.9688 25.6172 37 25.6172H39.082V21.6055C39.082 21.6055 37.2031 21.25 35.4258 21.25C31.7188 21.25 29.2812 23.5352 29.2812 27.5977V31.2031H25.1172V35.875H29.2812V47.25H34.3594V35.875H38.168Z" fill="#4A90E2"/>
+<circle id="Oval" cx="32.5" cy="32.5" r="32.5" stroke="#4A90E2" stroke-width="3"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="65" height="65" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="14px" viewBox="0 0 19 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>chevron-up</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CURSO_2" transform="translate(-1425.000000, -947.000000)" fill="#363636">
+            <path d="M1434.88354,947.978571 L1442.85465,955.949643 C1443.23905,956.334083 1443.23905,956.957327 1442.85465,957.341727 L1441.92495,958.271426 C1441.54115,958.655226 1440.91915,958.655947 1440.53447,958.273068 L1434.18748,951.955876 L1427.84053,958.273108 C1427.45584,958.655987 1426.83384,958.655266 1426.45004,958.271466 L1425.52034,957.341767 C1425.13594,956.957327 1425.13594,956.334083 1425.52034,955.949683 L1433.49146,947.978612 C1433.87586,947.594171 1434.4991,947.594171 1434.88354,947.978571 Z" id="chevron-up" transform="translate(1434.187498, 953.125034) scale(1, -1) translate(-1434.187498, -953.125034) "></path>
+        </g>
+    </g>
+</svg>
